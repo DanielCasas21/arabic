@@ -1,0 +1,44 @@
+*{
+  font-size: 30px;
+  text-align: center;
+  margin-left: 10%; 
+  margin-right: 10%;
+}
+
+body{
+  background-image: url("pattern.png");
+}
+
+section{
+  border-style: solid;
+  background: #D7F5E6;
+  border-image: url(border.png) 30 round;
+}
+
+.mix {
+  border-style: none none solid none;
+  margin: 0px;
+}
+
+input, button{
+  border-radius: 5px;
+  margin: 5px;
+  border-width: 3px;
+}
+
+h4{
+  text-align: left;
+}
+
+p{
+  text-align: right;
+}
+
+footer{
+  background: #D7F5E6;
+  border-style: solid;
+}
+
+.footer{
+  text-align: center;
+}
