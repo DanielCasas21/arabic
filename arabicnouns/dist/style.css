@@ -1,5 +1,13 @@
 *{
   font-size: 30px;
-  text-align: right;
+  text-align: center;
   margin: 10px; 
+}
+
+body{
+    background: #8FD9B4;
+}
+
+input, button{
+  border-radius: 5px;
 }
