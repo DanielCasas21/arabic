@@ -1,7 +1,8 @@
 *{
   font-size: 30px;
   text-align: center;
-  margin: 10px; 
+  margin-left: 175px; 
+  margin-right: 175px;
 }
 
 body{
@@ -10,4 +11,13 @@ body{
 
 input, button{
   border-radius: 5px;
+  margin: 1px;
+}
+
+h4{
+  text-align: left;
+}
+
+p{
+  text-align: right;
 }
